@@ -1,0 +1,40 @@
+{
+    "SKILL": [
+        "MS Visual Studio",
+        "MS Office",
+        "Word",
+        "Excel",
+        "C++",
+        "Windows",
+        "LAN",
+        "Security systems",
+        "TCP/IP",
+        "problem solving",
+        "Project management",
+        "AutoCAD",
+        "Maintenance",
+        "Finance"
+    ],
+    "POSITION": [
+        "Engineering Manager",
+        "QA Tester",
+        "Software Engineer"
+    ],
+    "LOCATION": [
+        "Las Vegas",
+        "Nevada"
+    ],
+    "EDUCATION": [
+        "Software Development",
+        "Information Systems",
+        "Master of Business Administration"
+    ],
+    "ORG": [
+        "Cognizant"
+    ],
+    "COLLEGE": [
+        "University of Nevada",
+        "University of South California",
+        "University of Texas"
+    ]
+}
